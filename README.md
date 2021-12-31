@@ -146,7 +146,7 @@ Now hop over to [Usage](#usage) to get it running with your own stuff!
 Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
 
 - Edit `_config.yml` to change your title, keywords, and description.
-- Create a new file in `_posts/` called `2014-01-01-intro.md`
+- Create a new file in `_posts/` called `home.md`
   Edit it, and add:
 
 ~~~

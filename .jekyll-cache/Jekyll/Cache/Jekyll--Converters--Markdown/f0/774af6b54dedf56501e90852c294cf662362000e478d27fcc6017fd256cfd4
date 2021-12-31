@@ -1,0 +1,13 @@
+I"<p>My USTC life is not only about GPA and lab work. I enjoy</p>
+
+<p><br /><br /></p>
+
+<p style="text-align:left;"><strong>Optimization on a Static Taint Analysis Tool for Java Application</strong>
+	<span style="float:right;">July - Oct 2021</span>
+</p>
+
+<p>Advisor: Prof. <a href="https://tianyin.github.io/">Tianyin Xu</a> (UIUC)</p>
+
+<p><em>As a static taint analysis tool, cflow has some problems such as non-deterministic output and high false-positive rate. I checked the outputs for many times and found that they were caused by non-deterministic taint propagation and lack of use-checking. Later, I fixed the bug of non-deterministic output and reduce false-positive cases. The code is <a href="https://github.com/fanweneddie/cflow/tree/dev">here</a>.</em></p>
+
+:ET

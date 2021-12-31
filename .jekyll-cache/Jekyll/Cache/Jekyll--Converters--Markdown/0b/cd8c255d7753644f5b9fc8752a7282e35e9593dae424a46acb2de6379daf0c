@@ -1,0 +1,19 @@
+I"<p>I enjoy coding on computer systems and I have done some work on program analysis and database.</p>
+
+<p style="text-align:left;"><strong>Building Global Index Table on Leveldb</strong>
+	<span style="float:right;">Sept 2020  - present</span>
+</p>
+
+<p>Advisor: Prof. <a href="http://staff.ustc.edu.cn/~ykli/">Yongkun Li</a> (<a href="http://adsl.ustc.edu.cn/introduction/">ADSL</a>, USTC)</p>
+
+<p><em>When the memory is sufficient, leveldb does not fully utilize it for indexing. Therefore, we tried to read the index block into memory and build a global index table to accelerate indexing. I implemented the bloom filter in global index table and did some performance test. The ongoing project is <a href="https://github.com/fanweneddie/global_index_table/tree/FanWen_BF">here</a>.</em></p>
+
+<p style="text-align:left;"><strong>Optimization on a Static Taint Analysis Tool for Java Application</strong>
+	<span style="float:right;">July - Oct 2021</span>
+</p>
+
+<p>Advisor: Prof. <a href="https://tianyin.github.io/">Tianyin Xu</a> (UIUC)</p>
+
+<p>As a static taint analysis tool, cflow has some problems such as non-deterministic output and high false-positive rate. I checked the outputs for many times and found that they were caused by non-deterministic taint propagation and lack of</p>
+
+:ET

@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Wen Fan's personal website"
-keywords:    "Wen Fan, personal website"
-description: "Wen Fan's personal website (using Jekyll template)"
+title:       "Wen Fan's homepage"
+keywords:    "Wen Fan, homepage"
+description: "Wen Fan's homepage (using Jekyll template)"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
