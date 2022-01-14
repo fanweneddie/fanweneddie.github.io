@@ -508,14 +508,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-about { border-color: #0fbfcf; }
-  #about { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #about a { color: #f8f8f8; }
-  #about .sectiondivider { color: #0fbfcf; }
-
-  
-  
-  
   nav .p-blogs { border-color: #c869bf; }
   #blogs { background-color: #c869bf !important; color: #f8f8f8; }
   #blogs a { color: #f8f8f8; }
