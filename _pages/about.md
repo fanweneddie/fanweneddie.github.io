@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wen Fan (范文), a second-year grad student at Purdue CS. I am interested in program verification.
+Hi, I am Wen Fan (范文), a first-year PhD student at Purdue ECE, advised by Dr. [Jenna DiVincenzo](https://jennalwise.github.io/). I am interested in program verification.
 
-I got my bachelor degree in CS from University of Science and Technology of China (USTC) in 2022, where I was honored to meet and work with Prof. [Yongkun Li](http://staff.ustc.edu.cn/~ykli/).
+I got my bachelor degree from University of Science and Technology of China (USTC) in 2022, where I was honored to work with Prof. [Yongkun Li](http://staff.ustc.edu.cn/~ykli/).
