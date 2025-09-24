@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Wen Fan (范文), a fourth-year PhD student at Purdue ECE. I am fortunate to be advised by Prof. [Jenna DiVincenzo](https://jennalwise.github.io/). My research is on LLM for program verification.
+Hi, I am Wen Fan (范文), a fourth-year PhD student at Purdue ECE. I am advised by Prof. [Jenna DiVincenzo](https://jennalwise.github.io/). My research is on LLM for program verification.
